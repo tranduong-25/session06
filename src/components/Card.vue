@@ -1,4 +1,3 @@
-<!-- Card.vue -->
 <template>
     <div class="card">
       <div class="card-header">
